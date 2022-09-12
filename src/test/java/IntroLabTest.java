@@ -36,5 +36,6 @@ public class IntroLabTest {
                 "I like cats more than dogs! Welcome to CSC207!";
         String actual = IntroLab.gaoxinxi();
         assertEquals(expected, actual);
+
     }
 }
